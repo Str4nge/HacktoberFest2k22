@@ -9,7 +9,6 @@ def polyreg(ord,xl,yl): #Polynomial regression of any order. Finds the function 
         for x in slist:
             total += x
         return total
-
     
     def matrix(lines): # Matrix solver
         for x in range(len(lines) - 1):
