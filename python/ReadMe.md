@@ -8,3 +8,5 @@
 - **DecimalToBinary.py** - A decmial to binary converter
 
 - **pyMail.py** - A simple program to send python mails
+
+- **DecimalToHex** - A decimal to hex converter
