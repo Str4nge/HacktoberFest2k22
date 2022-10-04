@@ -5,8 +5,8 @@
 
 ## Programs
 
-- **DecimalToBinary.py** - A decmial to binary converter
+- **decimal_to_binary.py** - A decmial to binary converter
 
-- **pyMail.py** - A simple program to send python mails
+- **pymail.py** - A simple program to send python mails
 
-- **DecimalToHex** - A decimal to hex converter
+- **decimal_to_hex.py** - A decimal to hex converter
