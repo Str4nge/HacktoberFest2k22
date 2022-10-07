@@ -10,3 +10,7 @@
 - **pymail.py** - A simple program to send python mails
 
 - **decimal_to_hex.py** - A decimal to hex converter
+
+- **QRCODE.py** - A simple program to generate qrcode
+
+
