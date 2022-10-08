@@ -11,6 +11,7 @@
 
 - **decimal_to_hex.py** - A decimal to hex converter
 
-- **QRCODE.py** - A simple program to generate qrcode
+- **Guess_number.py** - A simple program to guess a nummber
+
 
 
