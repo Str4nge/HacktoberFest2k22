@@ -11,7 +11,7 @@
 
 - **decimal_to_hex.py** - A decimal to hex converter
 
-- **Guess_number.py** - A simple program to guess a nummber
+- **Guess_number.py** - A simple program to guess a number
 
 
 
