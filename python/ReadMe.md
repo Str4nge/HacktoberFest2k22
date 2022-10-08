@@ -11,6 +11,8 @@
 
 - **decimal_to_hex.py** - A decimal to hex converter
 
+- **BMI_Calculator.py** - A simple program to calculate BMI
+
 
 
 
